@@ -266,6 +266,7 @@ nav li a {
     display: flex;
     gap: 155px;
     margin-bottom: 130px;
+    filter: grayscale(100%);
 }
 
 .sponsors-heading {
@@ -295,6 +296,7 @@ nav li a {
     color: #424242;
     padding: 38px 410px;
     margin: 0px;
+    
 
 }
 
